@@ -1,14 +1,8 @@
 {
-    "name": "prakhar/logintest",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Prakhar Sharma",
-            "email": "prakhar.infinity@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "name": "sprakhar/login",
+    "description": "A short description of what your package does",
     "require": {
-        
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
     }
 }
