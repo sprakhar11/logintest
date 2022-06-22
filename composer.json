@@ -1,29 +1,14 @@
 {
-    "name": "sprakhar11/logintest",
-    "description": "This ia a simple login and register project made with",
+    "name": "prakhar/logintest",
     "type": "project",
-    "require": {
-        "php": "^8.0.2",
-        "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^9.11",
-        "laravel/sanctum": "^2.14.1",
-        "laravel/tinker": "^2.7"
-    },
-    "license": "MIT",
-    "repositories": [
-        {
-           "type": "vcs",
-           "url": "https://github.com/sprakhar11/logintest" 
-        }
-      ],
-    "autoload": {
-        "psr-4": {
-            "Sprakhar11\\Logintest\\": "src/"
-        }
-    },
     "authors": [
         {
-            "name": "prakhar"
+            "name": "Prakhar Sharma",
+            "email": "prakhar.infinity@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
 }
