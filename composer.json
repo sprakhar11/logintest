@@ -2,7 +2,6 @@
     "name": "sprakhar11/logintest",
     "type": "project",
     "require": {
-        "sprakhar11/logintest":"dev-master@dev",
         "php": "^8.0.2",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.11",
