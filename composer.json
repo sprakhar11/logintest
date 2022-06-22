@@ -10,6 +10,12 @@
         "laravel/tinker": "^2.7"
     },
     "license": "MIT",
+    "repositories": [
+        {
+           "type": "vcs",
+           "url": "https://github.com/sprakhar11/logintest" 
+        }
+      ],
     "autoload": {
         "psr-4": {
             "Sprakhar11\\Logintest\\": "src/"
