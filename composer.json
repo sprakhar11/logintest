@@ -16,7 +16,7 @@
         "phpunit/phpunit": "^9.5.10",
         "spatie/laravel-ignition": "^1.0"
     },
-    "license": "Prakhar",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Prakhar\\Logintest\\": "src/"
