@@ -17,6 +17,7 @@
         "spatie/laravel-ignition": "^1.0"
     },
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Prakhar\\Logintest\\": "src/"
