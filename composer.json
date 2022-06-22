@@ -1,6 +1,7 @@
 {
     "name": "sprakhar11/logintest",
     "type": "project",
+    "description": "The Laravel Framework.",
     "require": {
         "php": "^8.0.2",
         "guzzlehttp/guzzle": "^7.2",
